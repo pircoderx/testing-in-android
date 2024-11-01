@@ -24,6 +24,7 @@ android {
             }
         }
     }
+    namespace 'com.techyourchance.unittestinginandroid'
 
 }
 
